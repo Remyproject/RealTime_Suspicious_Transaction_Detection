@@ -1,6 +1,6 @@
 # Real-Time Suspicious Transaction Detection System
 
-[![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/your-username/transaction-detection-system)
+[![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/Remyproject/RealTime_Suspicious_Transaction_Detection)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![N8N](https://img.shields.io/badge/N8N-Workflow%20Automation-orange.svg)](https://n8n.io/)
 [![AI Powered](https://img.shields.io/badge/AI-LLM%20Powered-purple.svg)](https://groq.com/)
@@ -191,8 +191,8 @@ const detectionRules = {
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Remyproject/transaction-detection-system
-cd transaction-detection-system
+git clone https://github.com/Remyproject/RealTime_Suspicious_Transaction_Detection
+cd RealTime_Suspicious_Transaction_Detection
 ```
 
 2. **Import N8N Workflow**
